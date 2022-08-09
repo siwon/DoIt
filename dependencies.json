@@ -1,0 +1,39 @@
+{
+    "localBasePath": "./assets/lib",
+    "dependencies": [
+        {
+            "name": "twikoo",
+            "version": "1.6.4",
+            "files": [
+                {
+                    "remote": "dist/twikoo.all.min.js",
+                    "local": "twikoo/twikoo.all.min.js"
+                }
+            ]
+        },
+        {
+            "name": "@waline/client",
+            "version": "2.6.2",
+            "files": [
+                {
+                    "remote": "dist/waline.css",
+                    "local": "waline/waline.css"
+                },
+                {
+                    "remote": "dist/waline.js",
+                    "local": "waline/waline.js"
+                }
+            ]
+        },
+        {
+            "name": "mermaid",
+            "version": "9.1.4",
+            "files": [
+                {
+                    "remote": "dist/mermaid.min.js",
+                    "local": "mermaid/mermaid.min.js"
+                }
+            ]
+        }
+    ]
+}
